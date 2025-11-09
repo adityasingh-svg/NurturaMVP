@@ -67,3 +67,5 @@ The app flow is: `/` → `/parent-entry` → `/create-profile` → `/select-goal
 
 ### Browser APIs
 - **Standard HTML5 Features**: For date input, local form validation, and JavaScript-driven multi-step forms.
+### Demo of the workking prototype
+- **https://www.loom.com/share/fc902f4f125c4f0f96ef178963de5758
